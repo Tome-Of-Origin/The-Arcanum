@@ -8,25 +8,19 @@
 ______________
 
   
-TODO:
+## TODO:
 
 - tutorial to mod textures
-
 - link to gamebanana / highlight mods
-
 - maybe gamebanana tutorial…?
-
 - alternative image editors 
-
 - update the git direct link for tools / leave only the git but explain how to download stuff from there
-
 - add a section for  @ ko-fi.com/jillcrungus backyard tools 
-
 - Iinux code on backyard tools tutorial 
-
 - link to notion page for GUI purposes
-
 - port to gamebanana?
+- imagemagick
+- sounds
 
 # 📋 Programs Needed
 
