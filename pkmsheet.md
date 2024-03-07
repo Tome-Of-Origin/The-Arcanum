@@ -1,7 +1,7 @@
 # TDxxx PKM contents list
 
 # Sol Badguy
-## Model
+## Model, TD220.PKM
 
 | PKM          | File    | Asset Category                | Description                                                                                       |
 |--------------|---------|-------------------------------|---------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | TD220        | 275.DDS | Master - Sol Badguy - Color 0 | Spiky thing, might be used for the small bit held by Sol in final DI stage                        |
 | TD220        | 862.DDS | Master - Sol Badguy - Color 0 | Under-character/unit ring and some vfx, seems to be not used in-game as color changes are ignored |
 
-## Servants (shared with EX sol)
+## Servants (shared with EX sol), TD120.PKM
 
 | PKM                | File    | Asset Category                  | Description                        |
 |--------------------|---------|---------------------------------|------------------------------------|
@@ -46,3 +46,34 @@
 | TD123              | 294.DDS | Servants - Sol Badguy - Color 0 | Repeat of 288.DDS                  |
 | TD124              | 904.DDS | Servants - Sol Badguy - Color 0 | Masterghost                        |
 | TD125              | 910.DDS | Servants - Sol Badguy - Color 0 | Repeat of 904.DDS                  |
+
+# Ky Kiske
+## Model, TD270.PKM
+
+| PKM   | File    | Asset Category        | Description                                       |
+|-------|---------|-----------------------|---------------------------------------------------|
+| TD270 | 108.DDS | Master - Ky - Color 0 | Cape                                              |
+| TD270 | 102.DDS | Master - Ky - Color 0 | Sword                                             |
+| TD270 | 96.DDS  | Master - Ky - Color 0 | Most of Ky                                        |
+| TD270 | 880.DDS | Master - Ky - Color 0 | Patterns, dangling bits on model                  |
+| TD270 | 834.DDS | Master - Ky - Color 0 | Valentine’s Capture Units Skulls, for some reason |
+| TD271 | 103.DDS | Master - Ky - Color 1 | Aquila / Sword                                    |
+| TD271 | 109.DDS | Master - Ky - Color 1 | Cape                                              |
+| TD271 | 881.DDS | Master - Ky - Color 1 | Player ring, Ghost pattern, etc                   |
+| TD271 | 97.DDS  | Master - Ky - Color 1 | Main Body                                         |
+| TD272 | 98.DDS  | Master - Ky - Color 2 | Main Body                                         |
+| TD272 | 104.DDS | Master - Ky - Color 2 | Aquila / Sword                                    |
+| TD272 | 110.DDS | Master - Ky - Color 2 | Cape                                              |
+| TD272 | 882.DDS | Master - Ky - Color 2 | Player Ring, Ghost Pattern, etc                   |
+| TD273 | 99.DDS  | Master - Ky - Color 3 | Main Body                                         |
+| TD273 | 105.DDS | Master - Ky - Color 3 | Aquila / Sword                                    |
+| TD273 | 111.DDS | Master - Ky - Color 3 | Cape                                              |
+| TD273 | 883.DDS | Master - Ky - Color 3 | Player Ring, Ghost Pattern, etc                   |
+| TD274 | 100.DDS | Master - Ky - Color 4 | Main Body                                         |
+| TD274 | 106.DDS | Master - Ky - Color 4 | Aquila / Sword                                    |
+| TD274 | 112.DDS | Master - Ky - Color 4 | Cape                                              |
+| TD274 | 884.DDS | Master - Ky - Color 4 | Player Ring, Ghost Pattern, etc                   |
+| TD275 | 101.DDS | Master - Ky - Color 5 | Main Body                                         |
+| TD275 | 107.DDS | Master - Ky - Color 5 | Aqulia / Sword                                    |
+| TD275 | 113.DDS | Master - Ky - Color 5 | Cape                                              |
+| TD275 | 885.DDS | Master - Ky - Color 5 | Player Ring, Ghost Pattern, etc                   |
