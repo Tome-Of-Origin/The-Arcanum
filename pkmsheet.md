@@ -15,6 +15,7 @@
 | TD220        | 862.DDS | Master - Sol Badguy - Color 0 | Under-character/unit ring and some vfx, seems to be not used in-game as color changes are ignored |
 
 ## Servants (shared with EX sol)
+
 | PKM                | File    | Asset Category                  | Description                        |
 |--------------------|---------|---------------------------------|------------------------------------|
 | TD120              | 131.DDS | Servants - Sol Badguy - Color 0 | The Drill Unit                     |
