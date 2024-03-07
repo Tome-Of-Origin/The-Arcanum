@@ -49,7 +49,7 @@ ______________
 
 # 🔎 Upscaling Efforts
 
-[Exported Textures (DSS, PNG)](https://drive.google.com/drive/folders/1IjHPkrBYuG6IcFgg4F_-0lD0JjEPuXCj?usp=drive_link) - [Upscaled Textures (DSS, PNG)](https://drive.google.com/drive/folders/1ijvuBLgude3Vx9zI38Ei6w50Yc4cDoYo) - [Final Files (PKM)](https://drive.google.com/drive/folders/13md3IVPYrbxsNWCAESPmMdxJEc2gkjhk?usp=drive_link)
+[Exported Textures (DDS, PNG)](https://drive.google.com/drive/folders/1IjHPkrBYuG6IcFgg4F_-0lD0JjEPuXCj?usp=drive_link) - [Upscaled Textures (DDS, PNG)](https://drive.google.com/drive/folders/1ijvuBLgude3Vx9zI38Ei6w50Yc4cDoYo) - [Final Files (PKM)](https://drive.google.com/drive/folders/13md3IVPYrbxsNWCAESPmMdxJEc2gkjhk?usp=drive_link)
 
 Original texture size: 1024x1024 - Upscaled: 2048x2048
 
@@ -68,11 +68,9 @@ ______________
 
   
 
-# 📝 Modding Files: Step by Step
+# 📝 Modding Files: Step by Step Guide
 
-The files are packed into .PKM packages. To access the files you want to modify, you must unpack the original .PKM with Backyard Tools. We call this process dumping the files. Now we could replace them with anything we want. For the game to read the new files, we need to repackage them with the Backyard Tools, then place them within the game’s original folder. 
-
-  
+The files are packed into .PKM packages. To access the files you want to modify, you must unpack the original .PKM with Backyard Tools. We call this process dumping the files. Now we could replace them with anything we want. For the game to read the new files, we need to repackage them with the Backyard Tools, then place them within the game’s original folder.  
 
 Here is a step by step guide:
 # Windows Usage
@@ -200,15 +198,11 @@ The GUI should then launch (You only need to do this once).
 
 If there’s an error, report to Fel™:
 
-- what u did
+- What you did
     
-- what happened
+- What happened
     
-- what does the terminal say if anything
-    
-
-  
-
+- What does the terminal say if anything
 ______________
 
 # 🗂️ PKM Dumping List
