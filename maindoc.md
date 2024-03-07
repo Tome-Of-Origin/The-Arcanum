@@ -24,10 +24,10 @@ ______________
 
 # 📋 Programs Needed
 
-- [Python](https://www.python.org/downloads/): Needed to run Backyard Tools code. 
+- [Python](https://www.python.org/downloads/): Needed to run Backyard Tools scripts. 
     
 - [Backyard Tools](https://gitlab.com/backyardtools/overture/prototypes) + [Documentation](https://gitlab.com/backyardtools/overture/documentation/-/blob/master/formats/MFT.md?ref_type=heads) : Extract files, repackage them into the game.  
-    > Latest [Backyard Tools .zip](https://gitlab.com/backyardtools/overture/prototypes/-/archive/master/prototypes-master.zip) - August, 2023
+    > Latest [Backyard Tools .zip](https://gitlab.com/backyardtools/overture/prototypes/-/archive/master/prototypes-master.zip)
     
 
   
