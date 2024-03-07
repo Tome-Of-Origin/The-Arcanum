@@ -1,7 +1,7 @@
 # TDxxx PKM contents list
 
 # Sol Badguy
-## Model, TD22X.PKM
+## Model, TD22X.PKMs
 
 | PKM          | File    | Asset Category                | Description                                                                                       |
 |--------------|---------|-------------------------------|---------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | TD220        | 275.DDS | Master - Sol Badguy - Color 0 | Spiky thing, might be used for the small bit held by Sol in final DI stage                        |
 | TD220        | 862.DDS | Master - Sol Badguy - Color 0 | Under-character/unit ring and some vfx, seems to be not used in-game as color changes are ignored |
 
-## Servants (shared with EX sol), TD12X.PKM
+## Servants (shared with EX sol), TD12X.PKMs
 
 | PKM                | File    | Asset Category                  | Description                        |
 |--------------------|---------|---------------------------------|------------------------------------|
@@ -48,7 +48,7 @@
 | TD125              | 910.DDS | Servants - Sol Badguy - Color 0 | Repeat of 904.DDS                  |
 
 # Ky Kiske
-## Model, TD27X.PKM
+## Model, TD27X.PKMs
 
 | PKM   | File    | Asset Category        | Description                                       |
 |-------|---------|-----------------------|---------------------------------------------------|
