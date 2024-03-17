@@ -145,25 +145,44 @@ If you want to know what assets are inside each PKM, [refer to this Excel](https
 
 ##  📝 List of Known PKM Assets
 
+
 AF00 = Mix of items, normals. These have a lot of .AFB files idk how to open them 
+
 AF10 = Stage normals?
+
 AF11 = Servant normal…?
+
 AF12 = A sword’s normal…?
+
 AF13 = One (1) normal idk
+
 AF14 = It has 2 textures idk theyre. red
 
+
 AF20 = Izuna Normals
+
 AF21 = Dr.Paradigm Normals
+
 AF22 = Sol Badguy Normals
+
 AF23 = EX Sol Normals
+
 AF24 = Sin Kiske Normals
+
 AF25 = Valentine Normals
+
 AF26 = Raven Normals
+
 AF27 = Ky Kiske Normals
+
 AF40 = Dizzy
+
 AF41 = That Man
+
 AF42 = Mecha Valentine
+
 AF43 = FINAL BOSS
+
 
 OUTGAMERESULT, OUTGAMEBATTLEINTRO, OUTGAME, OUTGAMETITLE, COCKPIT = UI. Most UI is in COCKPIT and OUTGAME, which are in data\cockpit and data\outgame respectively
 
